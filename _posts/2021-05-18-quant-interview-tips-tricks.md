@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Quant Interviews: Tips and Tricks from a Dog that's Getting Older"
-date:   2021-05-18 00:30:00 +0100
+date:   2021-05-18 18:30:00 +0100
 categories: quantfin
 ---
 In spite of the adverse job market conditions \**cough\** pandemic \**cough\**, quite a number of people these days are looking to get quantitative finance related jobs. Having gone through a reasonable number of interviews myself, I'll share some pointers about what I believe is important to keep in mind.
