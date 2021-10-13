@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dabbling into Home Servers"
-date: 2021-06-27 20:30:00 +0100
+date: 2021-10-13 20:46:00 +0100
 categories: tech
 --- 
 Living in the UK involves certain restrictions on your habitual life, and here I don't mean the temporary shortages that happen at supermarkets and everywhere else these days, or the Brexit border bull****, but rather the risk of "torrenting" things. For that, I set myself up with a little home server in Romania, and another one in the UK, with the goal of downloading in Romania and automatically syncing the data here.
