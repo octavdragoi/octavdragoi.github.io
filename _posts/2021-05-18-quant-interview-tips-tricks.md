@@ -27,3 +27,4 @@ In spite of the adverse job market conditions \**cough\** pandemic \**cough\**, 
 Finally, listing some resources here. You do not have to go through all of them, rather make a tailored prep program that lets you ace the specific kind of interview you need for your dream job.
 - A [good Git repo](https://github.com/kojino/120-Data-Science-Interview-Questions) with various problems.
 - A personal [Dropbox folder](https://www.dropbox.com/sh/ycirr4w2p3u5y5h/AADJ0xFpQ5pjn7iUQFtvA-R8a?dl=0) with some books and questions. It is a work in progress, if you want to add anything else please send them over!
+- [This book here](https://scholar.harvard.edu/david-morin/green-eyed-dragons) is awesome! Work through it, it has many of the classical statistics problems that you really need to know for this. Shout out to Prof. Morin for such a great overview of some of the best statistics and other math problems out there.
